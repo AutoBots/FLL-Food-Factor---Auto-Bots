@@ -1,0 +1,13 @@
+Please find the following files in our repository:
+
+Get Fish.rbt - Drives forward and drags back all four fish, whilst also knocking the blue ball off its stand.
+Baby Fish.rbt - Returns the baby fish to its mark on the table.
+Yellow Truck.rbt - Drives to the left and hooks onto the yellow truck, then drags it back to base.
+Yellow Ball.rbt - Drives towards the yellow ball and knocks it off its mark, then when reversing, bumps the corn harvester to release some corn.
+White Trailer.rbt - Drives towards the white trailer, hooks onto the trailer and then drags it back to base.
+
+Please note all programs have the follow assumptions:
+Motor A port is attached to the left wheel
+Motor C port is attached to the right wheel
+Motor B port is attached to the forklift up/down mechanism
+
