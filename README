@@ -6,7 +6,7 @@ Yellow Truck.rbt - Drives to the left and hooks onto the yellow truck, then drag
 Yellow Ball.rbt - Drives towards the yellow ball and knocks it off its mark, then when reversing, bumps the corn harvester to release some corn.
 White Trailer.rbt - Drives towards the white trailer, hooks onto the trailer and then drags it back to base.
 Catch Mouse.rbt - Drives to the left and pushes the mouse slide, then returns to base.
-East Wall - Travels from base to the east wall by manoeuvring between obstacles in its way.
+East Wall.rbt - Travels from base to the east wall by manoeuvring between obstacles in its way.
 
 Please note all programs have the follow assumptions:
 Motor A port is attached to the left wheel
